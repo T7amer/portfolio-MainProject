@@ -1,0 +1,17 @@
+.description {
+  color: green ; 
+  padding: 10px ; 
+  margin: 10px;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  font-family: 'Amiri', serif;
+font-family: 'Jim Nightshade', cursive;
+}
+.app {
+    display: -webkit-flex;
+    display: flex;
+}
+.element.style {
+	padding: 10px;
+}
